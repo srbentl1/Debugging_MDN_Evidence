@@ -25,8 +25,8 @@ nav {
   gap: 1rem;
 }
 
-a:focus {
-  outline: none;
+a:focus-visible {
+  outline: 2px solid black;
 }
 
 main {
